@@ -36,3 +36,4 @@ Design a dashboard with metrics and analysis. The end users of this dashboard ar
 ## Data Visualization
 * Created 4 reports for analyzing demographic insights, income utilization, spending analysis and recommendations report
 * Designed the dashboard layout and used charts, cards and filters for visualization
+* Link to the dashboard : https://is.gd/x0b9m_MitronBank
